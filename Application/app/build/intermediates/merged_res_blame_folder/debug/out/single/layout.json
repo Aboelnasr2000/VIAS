@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-38:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-main-41:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-38:/layout/info_bottom_sheet.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-41:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-38:\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\alyab\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.objectdetection.app-main-41:\\layout\\info_bottom_sheet.xml"
+    }
+]
